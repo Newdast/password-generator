@@ -15,4 +15,4 @@ Mini app hecha con HTML, CSS y JavaScript puro para generar contraseñas aleator
 
 ## Captura
 
-![demo](./img/screenshot.png))
+![demo](./img/screenshot.png)
