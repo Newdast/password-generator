@@ -1,6 +1,12 @@
 # Generador de Contraseñas Seguras 🔐
 
-Mini app hecha con HTML, CSS y JavaScript puro para generar contraseñas aleatorias personalizadas.
+Mini app hecha para generar contraseñas aleatorias personalizadas.
+
+## Tecnologías implementadas 
+
+- JavaScript
+- HTML y CSS
+
 
 ## Funcionalidades
 
